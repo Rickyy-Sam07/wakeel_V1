@@ -1,0 +1,6 @@
+transformers
+faiss-cpu
+datasets
+groq
+numpy
+scikit-learn
