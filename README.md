@@ -9,8 +9,7 @@ LawBot is an AI-powered chatbot that answers questions about **Indian laws**. It
 
 - ⚖️ Understands and answers questions about Indian law  
 - 💬 Interactive chat interface with natural language processing  
-- 🧠 Powered by the **LLaMA 3.3 8B** model fine-tuned using **QLoRA**  
-- 🔍 Optional RAG setup using **ChromaDB** or **FAISS** for enhanced retrieval  
+- 🧠 Powered by the **GPT-2** model implements using **RAG**  setup using **ChromaDB** or **FAISS** for enhanced retrieval  
 ---
 
 ## 📦 Dataset
