@@ -91,6 +91,10 @@ python wakeel_v1.py
 - *What are the fundamental rights under Article 21?*
 
 ---
+## Working:
+![Screenshot 2025-05-12 230925](https://github.com/user-attachments/assets/e6c63143-ce73-42ba-8f04-e0804a37954c)
+
+---
 
 ## 📢 Disclaimer
 
